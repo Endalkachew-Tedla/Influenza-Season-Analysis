@@ -49,6 +49,6 @@ To help a medical staffing agency that provides temporary workers to clinics and
 **Consolidating Analytic Insights**: Find the analytic insights inside this [PDF Report].
 
 **Final Project PDF**: 
-- Find detailed report on findings to Stakeholders in the Presenting Findings to Stakeholders PDF]
-- Find detailed data storytelling about the project [Data Storytelling with Presentations PDF]
+- Find detailed report on findings to Stakeholders in the [Presenting Findings to Stakeholders PDF](https://github.com/Endalkachew-Tedla/Influenza-Season-Analysis/blob/main/Task%202.10%20-%20Presenting%20Findings%20to%20Stakeholders.pdf)
+- Find detailed data storytelling about the project [Data Storytelling with Presentations PDF](https://github.com/Endalkachew-Tedla/Influenza-Season-Analysis/blob/main/Task%202.9%20-%20Data%20Storytelling%20with%20Presentations.pdf)
 

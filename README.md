@@ -46,7 +46,7 @@ To help a medical staffing agency that provides temporary workers to clinics and
 
 **Visualizations**: Check out the [Tableau Public dashboard](https://endalkachew-tedla.github.io/Endalkachew-Tedla-Portfolio/projects/Influenza/tableau.html) for interactive insights. 
 
-**Consolidating Analytic Insights**: Find the analytic insights inside this [PDF Report].
+**Consolidating Analytic Insights**: Find the analytic insights inside this [PDF Report](https://github.com/Endalkachew-Tedla/Influenza-Season-Analysis/blob/main/Task%201.10%20-%20Consolidating%20Analytical%20Insights.pdf).
 
 **Final Project PDF**: 
 - Find detailed report on findings to Stakeholders in the [Presenting Findings to Stakeholders PDF](https://github.com/Endalkachew-Tedla/Influenza-Season-Analysis/blob/main/Task%202.10%20-%20Presenting%20Findings%20to%20Stakeholders.pdf)
